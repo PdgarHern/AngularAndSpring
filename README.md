@@ -12,3 +12,7 @@ Además, es necesario indicar los datos de acceso (usuario y contraseña de MySQ
 # Problemas
 
 Existe la posibilidad de que el segundo slider de imágenes NO funcione al iniciar el servidor de Angular. No se realmente a qué se debe esto, ya que, además, si navegas a otra vista y vuelves al inicio o simplemente recargándo la página comienza a funcionar como si nada.
+
+# Vista
+
+Las vistas están hechas con las dimensiones del iPhone X en mente.
